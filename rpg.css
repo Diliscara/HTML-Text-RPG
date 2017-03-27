@@ -1,0 +1,25 @@
+body {
+	background-color: #D2A165;
+}
+
+h1 {
+	color: #000000;
+	text-align: center;
+}
+
+p {
+	font-family: verdana;
+	font-size: 14px;
+	text-align: center;
+}
+
+a:link {
+	margin-left: 150px;
+	background-color: #D2A165;
+	color: #0100FF;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+
